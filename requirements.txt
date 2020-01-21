@@ -1,0 +1,5 @@
+flask
+MySQLdb
+MySQLdb.cursors
+xampp
+bootstrap(cdn)
